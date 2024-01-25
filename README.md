@@ -1,2 +1,2 @@
 # BHP
-Data Science -- Banglore Houses Price Prediction with a machine learing modal.
+Data Science - Banglore Houses Price Prediction with a machine learing modal.
